@@ -1,2 +1,5 @@
 fithub
 ======
+
+
+`make test.byte`
